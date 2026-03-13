@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "server",
+  "dolt_database": "promptyard2",
+  "project_id": "f5c415da-bb9f-40e5-bf2a-120016aa11a8"
+}

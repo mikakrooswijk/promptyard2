@@ -1,0 +1,10 @@
+
+# Dolt database files (added by bd init)
+.dolt/
+*.db
+
+# Node.js
+node_modules/
+dist/
+promptyard2-repo/
+
