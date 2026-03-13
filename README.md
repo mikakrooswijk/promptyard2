@@ -13,7 +13,7 @@ curl -fsSL https://raw.githubusercontent.com/mikakrooswijk/promptyard2/main/inst
 Or clone the repo and run it manually:
 
 ```bash
-git clone https://github.com/YOUR_ORG/promptyard2.git
+git clone https://github.com/mikakrooswijk/promptyard2.git
 cd promptyard2
 ./install.sh
 ```
