@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-REPO_URL="https://github.com/YOUR_ORG/promptyard2.git"
+REPO_URL="https://github.com/mikakrooswijk/promptyard2.git"
 INSTALL_DIR="${PROMPTYARD_INSTALL_DIR:-$HOME/.promptyard2}"
 
 # Check prerequisites
